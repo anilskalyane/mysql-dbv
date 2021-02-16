@@ -1,0 +1,13 @@
+ Volume in drive C has no label.
+ Volume Serial Number is CC50-656C
+
+ Directory of C:\Users\harishnaik\Desktop\JS
+
+05-07-2019  12:26    <DIR>          .
+05-07-2019  12:26    <DIR>          ..
+21-06-2019  23:49               111 index.html
+21-06-2019  23:46                 0 New Text Document.txt
+22-06-2019  13:45               410 script.js
+05-07-2019  12:32    <DIR>          testing
+               3 File(s)            521 bytes
+               3 Dir(s)  273,415,700,480 bytes free

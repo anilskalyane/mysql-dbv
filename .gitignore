@@ -1,0 +1,32 @@
+#App config path
+config.php
+
+# General web stuff
+/.htaccess
+/robots.txt
+/error_log
+*.patch
+
+
+# Various IDE &#038; OS files that should never be committed
+.DS_Store
+*.swp
+*.lock
+*.csv
+__MACOSX
+.idea
+/nbproject/*
+.project
+.buildpath
+.thumbs
+Thumbs.db
+build.properties
+.project
+.settings
+.buildpath
+*.bkp
+*.tgz
+*.zip
+*.tar.gz
+/_notes/*
+*.gz
